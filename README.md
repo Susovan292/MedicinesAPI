@@ -198,7 +198,8 @@ MIT License (or your preferred license)
 
 ## ✨ Author
 
-**Your Name**  
+**Susovan Das**  
 Email: suvo.codes15@gmail.com 
+
 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/susovan-das-66503a298/)
 ---
