@@ -201,5 +201,5 @@ MIT License (or your preferred license)
 **Susovan Das**  
 Email: suvo.codes15@gmail.com 
 
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/susovan-das-66503a298/)
+LinkedIn: [linkedin.com/in/susovan-das-66503a298/](https://www.linkedin.com/in/susovan-das-66503a298/)
 ---
